@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reda-mohsen
+- 👋 Hi, I’m Reda Mohsen
 - 👀 I’m interested in Data Science and Embedded Systems.
 - 🌱 I’m currently learning Embedded Machine Learning, IOT and Computer Vision.
 - 💞️ I’m looking to collaborate on data science projects.
