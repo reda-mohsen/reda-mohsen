@@ -6,7 +6,7 @@
 
 ## About Me-->
 - 🔭 I'm highly motivated and committed to contributing to software development projects
-- 🎓 I recently graduated with a Bachelor of Engineering in Computer Engineering from Ain Shams University.
+- 🎓 I recently graduated with a Bachelor of Science in Computer Engineering and Software Systems from Ain Shams University.
 - 📫 You can reach me via email at ai.reda.mohsen@gmail.com.
 - 🌐 Connect with me on LinkedIn: [Reda Mohsen](https://www.linkedin.com/in/reda-mohsen).
 
@@ -14,7 +14,7 @@
 
 - **Bachelor of Engineering in Computer Engineering**
     - Ain Shams University
-    - Graduated: May 2023
+    - Graduated: July 2023
     - GPA: 3.18
  -->
 
