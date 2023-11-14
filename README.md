@@ -22,7 +22,7 @@
 
 ![Reda's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reda-mohsen&show_icons=true&count_private=true&line_height=27&hide_border=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reda-mohsen&layout=compact&hide_border=true&theme=radical)](https://github.com/reda-mohsen/github-readme-stats)
 
-## 🌟 Languages
+## 🌟 Programming Skills
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style = "margin-left : 10px; margin-right: 10px"/>
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style = "margin-left : 10px; margin-right: 10px"/> 
