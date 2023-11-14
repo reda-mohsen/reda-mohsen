@@ -1,7 +1,11 @@
 <!-- # Reda Mohsen -->
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Gloria+Hallelujah&size=40&color=CE33F7&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hello%2C+I+am+Reda+Mohsen;Software+Engineer" alt="Typing SVG" style = "width:100%"/>
+</a>
+
 ## About Me-->
-- 🔭 I'm highly motivated and committed to contributing to the development of artificial intelligence for computer vision and data science applications.
+- 🔭 I'm highly motivated and committed to contributing to software development projects
 - 🎓 I recently graduated with a Bachelor of Engineering in Computer Engineering from Ain Shams University.
 - 📫 You can reach me via email at ai.reda.mohsen@gmail.com.
 - 🌐 Connect with me on LinkedIn: [Reda Mohsen](https://www.linkedin.com/in/reda-mohsen).
