@@ -28,8 +28,7 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style = "margin-left : 10px; margin-right: 10px"/> 
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style = "margin-left : 10px; margin-right: 10px"/> 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style = "margin-left : 10px; margin-right: 10px"/> 
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style = "margin-left : 10px; margin-right: 10px"/> 
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style = "margin-left : 10px; margin-right: 10px"/> 
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style = "margin-left : 10px; margin-right: 10px"/>
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style = "margin-left : 10px; margin-right: 10px"/> 
 <img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" style = "margin-left : 10px; margin-right: 10px"/> 
 <img align="left" alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" /> 
